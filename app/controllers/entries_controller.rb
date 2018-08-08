@@ -12,4 +12,10 @@ class EntriesController < ApplicationController
   redirect_to entries_url
   end
 
+  def edit
+  end
+
+  def update
+  end 
+
 end
